@@ -1,10 +1,10 @@
 {
-    "version": "1.2.0",
+    "version": "1.1.1",
     "description": "Easily edit and manage the hosts file",
     "homepage": "https://hostsfileeditor.com",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/scottlerch/HostsFileEditor/releases/download/v1.2.0/HostsFileEditorSetup-1.2.0.msi",
-    "hash": "52db892868e2094de82690f2825e1cc08187b11e850463daa33d9a829da34753",
+    "url": "https://github.com/scottlerch/HostsFileEditor/releases/download/v1.1.1/HostsFileEditorSetup-1.1.1.msi",
+    "hash": "2647cdc91b67520393ffddeb32b0853dd718f115691463e6ba4d93390ef93aac",
     "bin": "HostsFileEditor.exe",
     "shortcuts": [
         [
