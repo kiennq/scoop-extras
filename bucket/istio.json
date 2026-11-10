@@ -1,15 +1,15 @@
 {
-    "version": "1.31.4",
+    "version": "1.32.0",
     "description": "An open platform-independent service mesh that provides traffic management, policy enforcement, and telemetry collection.",
     "homepage": "https://istio.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/istio/istio/releases/download/1.31.4/istio-1.31.4-win.zip",
-            "hash": "3a85558899a52d8259e6986b50f6a4b243d44c44a803e027b590b907ab54530d"
+            "url": "https://github.com/istio/istio/releases/download/1.32.0/istio-1.32.0-win.zip",
+            "hash": "33f42f37c5f8880c065a72ebe5e5d064ea38d0c44e6f5413eaf6d5348142d585"
         }
     },
-    "extract_dir": "istio-1.31.4",
+    "extract_dir": "istio-1.32.0",
     "bin": "bin\\istioctl.exe",
     "checkver": {
         "github": "https://github.com/istio/istio"
